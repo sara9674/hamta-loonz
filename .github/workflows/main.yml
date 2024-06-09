@@ -1,0 +1,16 @@
+
+    "id":"SaleOrder",
+     "Params":[{"Name":"CustomerId","Value":"10000002"},// آی دی مشتری
+               {"Name":"VoucherDate","Value":"1403/03/20"},// تاریخ سند
+               {"Name":"StockID","Value":"10000002"},// آی دی انبار
+               {"Name":"VoucherDesc","Value":"test"},// شرح سند 
+               {"Name":"SaleTypeID","Value":"10000001"},//آی دی نوع فروش
+               {"Name":"DeliveryCenterID","Value":"10000002"},// آی دی محل تحویل
+               {"Name":"SaleCenterID","Value":"10000057"},//آی دی مرکز فروش
+               {"Name":"SellerID","Value":10000878},//آی دی فروشنده
+               {"Name":"PaymentWayID","Value":"10000001"},//آی دی نحوه پرداخت
+               {"Name":"PayWayDays","Value":"1"},//روز
+               {"Name":"ReserveToDate","Value":"1403/03/20"}, // تاریخ رزرو 
+               //{"Name":"IsReserve","Value":"false"},
+             //{"Name":"MojoodiInSelectGood","Value":"True"},
+               {"Name":"[Inserted]","Array_Value":[1,10001736,"1","100","","","","test"]} //آرایه ای شامل ردیف ، آی دی کالا ،مقدار، فی تخفیف،‌روند کاهنده، روند افزاینده توضیحات ردیف 
